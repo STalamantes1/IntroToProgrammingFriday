@@ -33,6 +33,11 @@ num2=9
 addition=num1+num2
 print(addition)
 
+num1=5
+num2=9
+addition=num1+num2
+print(addition)
+
 # See if you can find other ways to "do maths" (hint: operators are useful and efficient.)
 # https://www.w3schools.com/python/python_operators.asp
 
